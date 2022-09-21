@@ -26,3 +26,13 @@ Y. Song, A. Nazir, D. Lau, and Y. Liu, "**Picking by Tilting: In-Hand Manipulati
 * [**UR3 robot arm**](https://www.universal-robots.com/products/ur3-robot/)
 * [**curved end-effector**](https://github.com/HKCLR-Manipulation/dexterous_picking/blob/main/stl/curved_effector.stl)
 * [**python-urx**](https://github.com/jkur/python-urx)
+
+#### Implementation
+To execute the picking operation on a [large steel box](https://www.ikea.com.hk/en/products/storing-and-washing/food-containers/hasthage-art-30524361?gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKIbWbrx3Ruw259k6Z14LGE6XrLX204dTrdWhTHrctDt_6FZkfHPCtoaAqFcEALw_wcB&gclsrc=aw.ds)
+```
+cd dexterous_picking/robot_arm/scripts
+
+python large_steel_box.py
+```
+
+
