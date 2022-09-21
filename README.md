@@ -9,7 +9,7 @@ This package is an implementation of robotic in-hand manipulation capability tha
 **Related Paper**
 
 Y. Song, A. Nazir, D. Lau, and Y. Liu, "**Picking by Tilting: In-Hand Manipulation for Object Picking using Effector with Curved Form**," submitted to 2023 International Conference on Robotics and Automation (ICRA).
-* [Video attachment](https://drive.google.com/file/d/1emyU3kVg0WSdRrI33vklFMBnhBh7agit/view?usp=sharing)
+* [Video attachment](https://drive.google.com/file/d/1GR5UTZ1pRyEswY5hhTyq1UvXdeuAgBqq/view?usp=sharing)
 
 
 ## 2. Impelmentation with Our Robotic Palm
@@ -19,6 +19,8 @@ Y. Song, A. Nazir, D. Lau, and Y. Liu, "**Picking by Tilting: In-Hand Manipulati
 
 #### Hardware
 * [**UR3 robot arm**](https://www.universal-robots.com/products/ur3-robot/)
+* [**curved end-effector**]()
+
 
 #### Software
 
