@@ -22,10 +22,7 @@ Y. Song, A. Nazir, D. Lau, and Y. Liu, "**Picking by Tilting: In-Hand Manipulati
 
 ## 3. Impelmentation with a Conventional Manipulator
 
-#### Hardware
+#### Hardware and Software
 * [**UR3 robot arm**](https://www.universal-robots.com/products/ur3-robot/)
 * [**curved end-effector**](https://github.com/HKCLR-Manipulation/dexterous_picking/blob/main/stl/curved_effector.stl)
-
-
-#### Software
-
+* [**python-urx**](https://github.com/jkur/python-urx)
