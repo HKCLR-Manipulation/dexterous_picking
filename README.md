@@ -6,7 +6,8 @@ This package is an implementation of robotic in-hand manipulation capability tha
 
 
 <p align="center">
-  <img height="200" src="https://github.com/HKCLR-Manipulation/dexterous_picking/blob/main/media/robot_arm.gif">
+  <img height="250" src="https://github.com/HKCLR-Manipulation/dexterous_picking/blob/main/media/our_robotic_palm.gif">
+  &nbsp;&nbsp;&nbsp;&nbsp;<img height="250" src="https://github.com/HKCLR-Manipulation/dexterous_picking/blob/main/media/robot_arm.gif">
 </p>
 
 
