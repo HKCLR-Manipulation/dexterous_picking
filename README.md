@@ -19,6 +19,23 @@ Y. Song, A. Nazir, D. Lau, and Y. Liu, "**Picking by Tilting: In-Hand Manipulati
 
 ## 2. Impelmentation with Our Robotic Palm
 
+#### Hardware and Software
+* Each of the two joints connected to the ground is actuated by a HT8108-J6 DC motor (rated torque: 6.9 Nm at 24 volts, according to the manufacturer1) through a built-in planetary gear train. (http://www.haitaijd.cn/)
+* The axes of the motors are horizontally offset to realize the desired manipulation behavior of the palm. The palm is 3D printed and covered with a high-friction rubber material. Its proximal end features a curved, ellipsical surface to facilitate tilting by rolling.
+
+#### Implementation
+To execute the picking operation:
+```
+cd dexterous_picking/robot_arm/scripts/5 bar mechanism
+
+python Control by keys.py
+```
+To get plots of the result data:
+```
+cd dexterous_picking/robot_arm/scripts/5 bar mechanism
+
+python Plot by Python.py
+```
 
 ## 3. Impelmentation with a Conventional Manipulator
 
